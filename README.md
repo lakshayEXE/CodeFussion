@@ -1,6 +1,7 @@
-# React + Vite
+# CodeFussion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+in this we scrap the data from other all the famous coding websites . it help us track the number of coding questions we have done just by entring user name 
+
 
 Currently, two official plugins are available:
 
